@@ -25,6 +25,6 @@ Para visualizar este projeto, siga os passos abaixo:
 3.  **Instalar Live Server**: Caso ainda não tenha, instale a extensão "Live Server" no VS Code.
 4.  **Abrir `index.html`**: Clique com o botão direito no arquivo `index.html` e selecione "Open with Live Server".
 
-## Observações
+## Observação
 
 * Para que as informações sejam exibidas completamente no frontend, é necessário que a aplicação ScreenMatch (API) esteja inicializada.
